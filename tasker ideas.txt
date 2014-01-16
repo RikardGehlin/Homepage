@@ -1,0 +1,3 @@
+Start VPN when connected to a public wifi network
+Speaker phone control, based on proximity. So if I'm talking to someone and put the phone down, the speake rphone automatically turn on and vise versa.
+No matter where I am, when my alarm goes off before 10am, wait 30secs, fade the volume down, read the weather forecast aloud to me, then fade the volume back up. Awesome way to wake up IMO.
